@@ -653,7 +653,6 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
-    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -667,10 +666,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 79f582fb-a5e4-4d09-b3c5-69acb9b6bb4b
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
-  projectName: ludem46
-  organizationId: michael-bryant-615b52b0-4a17-473f-9f8e-b92c18ef88a4
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
